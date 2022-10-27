@@ -1,1 +1,1 @@
-# serve-multiple-apps-guide
+# Guide: serve multiple React apps using Express

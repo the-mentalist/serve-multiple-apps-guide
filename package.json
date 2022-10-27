@@ -1,0 +1,14 @@
+{
+  "name": "ecomm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "",
+    "install": "",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
